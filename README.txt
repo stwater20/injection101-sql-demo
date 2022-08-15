@@ -1,3 +1,13 @@
+XAMPP for Windows 8.1.6 / PHP 8.1.6
+
+1. Create a db named database
+2. import database.sql
+3. have fun
+
+------------------
+
+template description
+
 Eventually by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
